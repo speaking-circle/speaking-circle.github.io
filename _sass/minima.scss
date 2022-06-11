@@ -71,3 +71,14 @@ $on-laptop:        800px !default;
   z-index: -1;
   content: url(/assets/chicken-orange.jpg);
 }
+.wrapper .home h1,
+.wrapper .home h2,
+.wrapper .home h3,
+.wrapper .home h4,
+.wrapper .home li,
+.wrapper .home p {
+  text-shadow:
+    1px 1px 30px #fff,
+    1px 1px 30px #fff,
+    1px 1px 30px #fff;
+}
