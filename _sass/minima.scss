@@ -82,3 +82,15 @@ $on-laptop:        800px !default;
     1px 1px 30px #fff,
     1px 1px 30px #fff;
 }
+
+body {
+
+ background:
+    url(/assets/circle-yellow.jpg) 99% 400px no-repeat,
+    url(/assets/circle-blue.jpg) 60% 20px no-repeat,
+    url(/assets/circle-purple.jpg) 3% bottom no-repeat;
+}
+
+.site-header {display: none; }
+
+.site-footer { display: none; }
