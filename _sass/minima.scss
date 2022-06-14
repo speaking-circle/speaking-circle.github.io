@@ -46,11 +46,12 @@ $on-laptop:        800px !default;
 // Import partials.
 @import
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout" //, // highlighting not needed at all
+//  "minima/syntax-highlighting"
 ;
 
-.wrapper .home::before {
+
+/*.home::before {
   display: block;
   width:1px;
   height: 1px;
@@ -60,8 +61,14 @@ $on-laptop:        800px !default;
   z-index: -1; 
   content: url(/assets/chicken-green.jpg);
 }
+*/
 
-.wrapper .home::after{
+.home {
+  background: url(/assets/chicken-green.jpg) 0 0 no-repeat;
+}
+
+
+.home::after{
   display: block;
   width:1px;
   height: 1px;
@@ -71,12 +78,12 @@ $on-laptop:        800px !default;
   z-index: -1;
   content: url(/assets/chicken-orange.jpg);
 }
-.wrapper .home h1,
-.wrapper .home h2,
-.wrapper .home h3,
-.wrapper .home h4,
-.wrapper .home li,
-.wrapper .home p {
+.home h1,
+.home h2,
+.home h3,
+.home h4,
+.home li,
+.home p {
   text-shadow:
     1px 1px 30px #fff,
     1px 1px 30px #fff,
