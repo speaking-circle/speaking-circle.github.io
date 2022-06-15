@@ -50,19 +50,6 @@ $on-laptop:        800px !default;
 //  "minima/syntax-highlighting"
 ;
 
-
-/*.home::before {
-  display: block;
-  width:1px;
-  height: 1px;
-  position: relative;
-  top: -50px;
-  left: -300px;
-  z-index: -1; 
-  content: url(/assets/chicken-green.jpg);
-}
-*/
-
 body {
   background-image:
     url(/assets/chicken-green.jpg),
@@ -84,6 +71,22 @@ body {
     60px 59px,
     129px 118px,
     663px 833px;
+
+  @include media-query($on-laptop) {
+  background-position:
+     -100px 50px,
+     99% 400px,
+     60% 20px,
+     3% 99%,
+     170% bottom;
+  background-size:
+    293px 450px,
+    89px 78px,
+    30px 30px,
+    65px 59px,
+    332px 417px;
+  }
+
 }
 
 .home h1,
