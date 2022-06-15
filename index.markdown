@@ -62,6 +62,10 @@ layout: home
 
 Из того, что когда-то понравилось и показалось полезным при подготовке выступлений:
 
+- [Константин Станиславский: Психотехника актерского искусства. Работа актера над собой](https://www.ozon.ru/product/psihotehnika-akterskogo-iskusstva-rabota-aktera-nad-soboy-stanislavskiy-k-226770161/)
+- [Николай Демидов: Искусство жить на сцене](https://www.livelib.ru/book/1001499152-iskusstvo-zhit-na-stsene-nikolaj-demidov)
+- [Константин Станиславский: Моя жизнь в искусстве](https://www.labirint.ru/books/687079/)
+- [Ян Фабр: От акта к актерству. Руководство Яна Фабра для перформера XXIв](https://www.ozon.ru/product/ot-akta-k-akterstvu-rukovodstvo-yana-fabra-dlya-performera-xxi-v-fabr-yan-344230362/)
 - [Сергей Гиппиус: Гимнастика чувств](https://www.ozon.ru/product/akterskiy-trening-gimnastika-chuvstv-uchebnoe-posobie-dlya-spo-gippius-sergey-vasilevich-241208378/)
 - [Алексей Каптерев: "Мастерство презентаций"](https://www.ozon.ru/product/masterstvo-prezentatsii-28292343/?asb=WxPiIojpLPbIgVq%252BeHSxQW0kf2HkC5jBICk7Exvlooc%253D&asb2=85LijSZYjjg6kVzM9TUUHw8e4bGCp2O3Yh2bLa1uaHU&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=c7iWh4X2)
 - [Алексей Каптерев: "Хорошая, плохая, продающая"](https://www.ozon.ru/product/horoshaya-plohaya-prodayushchaya-masterstvo-prezentatsii-2-0-kapterev-aleksey-sergeevich-253331044/?asb=UNFv%252BgCXPM578u6qPm1IhfUhbmSFW0WL1P7U3litsLU%253D&asb2=DrJR1DbbOP8ACPt6aq_ywsju0hX_H98aadABKBM7MEs&keywords=%D0%BA%D0%B0%D0%BF%D1%82%D0%B5%D1%80%D0%B5%D0%B2&sh=b92Blyz1)
