@@ -63,21 +63,29 @@ $on-laptop:        800px !default;
 }
 */
 
-.home {
-  background: url(/assets/chicken-green.jpg) 0 0 no-repeat;
+body {
+  background-image:
+    url(/assets/chicken-green.jpg),
+    url(/assets/circle-yellow.jpg),
+    url(/assets/circle-blue.jpg),
+    url(/assets/circle-purple.jpg),
+    url(/assets/chicken-orange.jpg);
+
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position:
+     0 0,
+     99% 400px,
+     60% 20px,
+     3% 99%,
+     100% 100%;
+  background-size:
+    585px 899px,
+    178px 155px,
+    60px 59px,
+    129px 118px,
+    663px 833px;
 }
 
-
-.home::after{
-  display: block;
-  width:1px;
-  height: 1px;
-  position: relative;
-  top: -500px;
-  right: -400px;
-  z-index: -1;
-  content: url(/assets/chicken-orange.jpg);
-}
 .home h1,
 .home h2,
 .home h3,
@@ -88,14 +96,6 @@ $on-laptop:        800px !default;
     1px 1px 30px #fff,
     1px 1px 30px #fff,
     1px 1px 30px #fff;
-}
-
-body {
-
- background:
-    url(/assets/circle-yellow.jpg) 99% 400px no-repeat,
-    url(/assets/circle-blue.jpg) 60% 20px no-repeat,
-    url(/assets/circle-purple.jpg) 3% bottom no-repeat;
 }
 
 .site-header {display: none; }
